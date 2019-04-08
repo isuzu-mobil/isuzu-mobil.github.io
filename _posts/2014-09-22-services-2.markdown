@@ -1,8 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: truck.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Isuzu Heavy Duty Truck
 description: |
 ---
   Turn your 2D designs into high quality, 3D
