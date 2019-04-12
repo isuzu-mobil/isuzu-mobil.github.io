@@ -1,8 +1,13 @@
 ---
 layout: default
-img: phones.png
+img: IMG-20190407-WA0001.jpg
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Official Sales Marketing 
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+PT. ASTRIDO GROUP 
+Jl Kebondanas Pusakajaya Subang, 41255
+
+**M. Faridz Fikri**
+
+**Phone: 0853-2100-8689**
