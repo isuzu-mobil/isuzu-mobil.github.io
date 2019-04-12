@@ -5,8 +5,8 @@ category: Services
 title: Official Sales Marketing 
 description: |
 ---
-PT. ASTRIDO GROUP 
-Jl Kebondanas Pusakajaya Subang, 41255
+PT. ASTRIDO GROUP <br/>
+*Jl. Kebondanas Pusakajaya Subang, 41255*
 
 **M. Faridz Fikri**
 
